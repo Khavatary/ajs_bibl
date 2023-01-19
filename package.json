@@ -1,0 +1,23 @@
+{
+  "name": "ajs_bibl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khavatary/ajs_bibl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khavatary/ajs_bibl/issues"
+  },
+  "homepage": "https://github.com/Khavatary/ajs_bibl#readme",
+  "dependencies": {
+    "@khavatary/ajs": "^1.0.0"
+  }
+}
